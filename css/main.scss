@@ -53,6 +53,12 @@ $on-laptop:        800px;
         "src/milligram"
 ;
 
+body, p, h1, h2, h3, h5, h6 {
+   font-family: 'CarlitoRegular';
+   font-weight: normal;
+   font-style: normal;
+}
+
 #landing {
   width: 100%;
   height: 100%;
@@ -66,7 +72,7 @@ $on-laptop:        800px;
     height: 100%;
   }
 
-  background: url("/uploads/ludobox.jpg") no-repeat center center fixed;
+  background: url("/uploads/Electronics_factory_in_Shenzhen-min.jpg") no-repeat center center fixed;
   background-size: 80%;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -77,51 +83,42 @@ $on-laptop:        800px;
 	  position: fixed;
 	  height: 100%;
 	  width: 100%;
-	  background: rgba(0,0,0,.3) url("/uploads/curtains.png") repeat top left;
+	  background: rgba(0,0,0,.5) url("/uploads/curtains.png") repeat top left;
 	  z-index: -1;
 	}
 
   color: white;
 
   header {
-    padding-top: 2em;
+    padding-top: 20%;
     text-align: center;
-  }
 
-  a.ludobox-logo {
-    background: url("/uploads/logo_ludobox.png") no-repeat center center;
-    background-size: 100%;
-    display:block;
-    height:200px;
-    width:200px;
-    margin: 0 auto;
+    h1 {
+      margin-bottom: 0;
+      text-transform: uppercase;
+      font-weight: bolder;
+      font-size: 10em;
+      line-height: .8em;
+    }
 
-    /* Hide the text. */
-    text-indent: 100%;
-    white-space: nowrap;
-    overflow: hidden;
-  }
+    h3 {
+      margin-top: 0;
+      font-size: 4em;
+      color: magenta;
+    }
+    .tagline {
+      font-size: 2em;
+      line-height: 1.3em;
+    }
 
-  .logo {
-    text-align: center;
-    a.dcalk {
-      background: url("/uploads/dcalk_logo_small.png") no-repeat center center;
-      background-size: 100%;
-      display:block;
-      height:100px;
-      width:100px;
-      margin: 0 auto;
+    .contact {
+      margin-top: 0;
+      font-size: 1.4em;
+      // a {
+      //   color: white;
+      // }
 
-      /* Hide the text. */
-      text-indent: 100%;
-      white-space: nowrap;
-      overflow: hidden;
     }
   }
 
-  #license {
-	  padding-top: 1em;
-	  text-align: center;
-	  font-size: .9em;
-	}
 }

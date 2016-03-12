@@ -6,13 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Ludobox
-email: your-email@domain.com
-description: "DIGITAL TOY LIBRARY : an offline device to share games released under free licenses"
+title: Xuzao
+subtitle: 虚构制造
+email: contact@xuzao.net
+description: " An international research, art and education program
+for speculative design and manufacturing"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ludobox.net" # the base hostname & protocol for your site
-twitter_username: asso_dcalk
-github_username:  ludobox
+url: "http://xuzao.net" # the base hostname & protocol for your site
+twitter_username: xuzaostudio
+github_username:  xuzao
 
 # Build settings
 markdown: kramdown
