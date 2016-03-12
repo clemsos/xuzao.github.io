@@ -25,7 +25,10 @@
         margin-bottom: 0;
         z-index: 1;
       }
-      .remark-slide-content h1 { font-size: 3em; margin-bottom: 1em;}
+      h1, h2 {
+        text-transform: uppercase;
+      }
+      .remark-slide-content h1 { font-size: 3em; margin-bottom: .8em;}
       .remark-slide-content h2 { font-size: 2em; }
       .remark-slide-content h3 { font-size: 1.6em; }
 
@@ -191,6 +194,37 @@
         z-index: 100;
         display:none;
       }
+
+      .two-cols {
+        -webkit-column-count: 2;
+        -webkit-column-gap: 0;
+        -moz-column-count: 2;
+        -moz-column-gap: 0;
+        column-count: 2;
+        column-gap: 0;
+      }
+
+      table, tr, td {
+        border:1px solid #ccc;
+        border-collapse: collapse;
+      }
+      table tr:last {
+        background: white;
+      }
+      th, td {
+        padding: 0.5em 1em;
+      }
+
+      table {
+        text-align: center;
+        margin: 0 auto;
+      }
+
+      .green {
+        color:green;
+      }
+
+
 
     </style>
   </head>
