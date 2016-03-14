@@ -152,10 +152,10 @@ background-image: url("/uploads/xcj.JPG")
 
 .icons[
 
-![Label ANR](/uploads/logos/label-ANR.png)
-![Telecom ParisTech](/uploads/logos/TPT.png)
-![*Toulouse 2 University](/uploads/logos/lereps.png)
-![**Nanjing University**](/uploads/logos/Nanjing_University_Logo.svg.png)
+[![Label ANR](/uploads/logos/label-ANR.png)](http://www.agence-nationale-recherche.fr/en/anr-funded-project/?tx_lwmsuivibilan_pi2%5BCODE%5D=ANR-13-SOIN-0006)
+[![Telecom ParisTech](/uploads/logos/TPT.png)](http://www.telecom-paristech.fr/)
+[![*Toulouse 2 University](/uploads/logos/lereps.png)](http://lereps.sciencespo-toulouse.fr/)
+[![**Nanjing University**](/uploads/logos/Nanjing_University_Logo.svg.png)](http://www.nju.edu.cn/english/)
 ]
 
 
@@ -293,12 +293,16 @@ class:  inverse, middle, title
 # Outcomes
 .list-close[
 
-* ### Speculative Manufacturing <small>: A new methodology for critical innovation.</small>
-* ### France-China <small>: An ongoing international Design & Arts exchange program.</small>
-* ### International exhibitions <small>: St-Etienne Biennale, SZ/HK Biennale.</small>
-* ### Book  <small>: Online Publications / Book Disnovation #1 Shenzhen.</small>
-* ### Pop-up art shows <small>: Shenzhen Maker Week, Protocultural Lyon/St-Etienne.</small>
-* ### Public Domain <small>: All documentation released on CC-0 License</small>
+.col-one-half[
+* ### Speculative Manufacturing <br><small>A new methodology for critical innovation.</small>
+* ### France-China <br><small>An ongoing international Design & Arts exchange program.</small>
+* ### International exhibitions <br><small>St-Etienne Biennale, SZ/HK Biennale.</small>
+]
+.col-one-half[
+* ### Book+Online Publications  <br><small>Disnovation Book #1 Shenzhen.</small>
+* ### Pop-up art shows <br><small>Shenzhen Maker Week, Protocultural Lyon/St-Etienne.</small>
+* ### Public Domain <br><small>All documentation released on CC-0 License</small>
+]
 ]
 
 ---
