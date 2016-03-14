@@ -327,7 +327,7 @@ class: middle, inverse
 ## TEACHING
 ### An on-site training program for design students  
 
-Students can be involved to benefit and contribute to the reflections and unfolding of the program.
+Students can be involved into the reflections and unfolding of the program.
 
 *(Details to be discussed with the education partner)*  
 
