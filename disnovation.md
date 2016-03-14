@@ -340,23 +340,27 @@ class: middle, inverse
 .col-one-half[
 ### 1. BRAINSTORM <br><small>Workshop Shenzhen - Jun 2016</small>
 
-Exploration of Shenzhen - Production of design guidelines  
+Exploration of Shenzhen  
+Production of design guidelines  
 <small>Team / Public Workshop (1 week)</small>  
 
-### 2.PROTOTYPE <br><small>Workshop Rhône-Alpes - Sep 2016</small>
 
-Review of previous ideas - Pre-design and prototype  
-<small>Team + product designers (1 week) </small>
-]
-
-.col-one-half[
 ### 3.PRODUCE <br><small>Residency Shenzhen - Oct 2016</small>
 
 Fieldwork for production chain of speculative objects    
 <small>Team + documentation team (1 month)</small>  
+]
+
+.col-one-half[
+### 2.PROTOTYPE <br><small>Workshop Rhône-Alpes - Sep 2016</small>
+
+Review of previous ideas  
+Pre-design and prototype  
+<small>Team + product designers (1 week) </small>
 
 ### 4.DOCUMENT <br><small> Rhône-Alpes - Q4 2016</small>
-Write-up, website and publishing for diffusion  
+Write-up, website and publishing
+Diffusion  
 <small>Team + book team (1 month)</small>
 ]
 
