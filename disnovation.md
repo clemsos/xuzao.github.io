@@ -2,6 +2,7 @@
 layout: slides
 title : FACTORY:FICTION | Xuzao Disnovation
 password: shenzhen
+noindex: true
 ---
 
 <div markdown="0">

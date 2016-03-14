@@ -7,6 +7,12 @@
     <meta name="description" content="A simple, in-browser, markdown-driven slideshow tool." />
     <title>{{ page.title }}</title>
 
+    <!-- meta robots -->
+    {% if page.noindex %}
+     <meta name="robots" content="noindex" />
+    {% endif %}
+
+
     <!-- prevent google indexing - meta robots -->
     {% if page.password %}
        <meta name="robots" content="noindex" />
