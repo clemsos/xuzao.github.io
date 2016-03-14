@@ -373,7 +373,7 @@ class: middle, inverse
 .blurb[
 ![Clément Renaud](/uploads/team/clement.jpg)  
 [Clément Renaud](http://clementrenaud.com)  
-.small[Coordination France]
+.small[Co-Founder / France]
 ]
 
 .blurb[
@@ -389,7 +389,7 @@ class: middle, inverse
 .blurb[
 ![Qu Hongyuan](/uploads/team/yuan.jpg)  
 [Qu Hongyuan](http://quhongyuan.com)  
-.small[Coordination China]
+.small[Co-Founder / China]
 ]
 
 .blurb[
