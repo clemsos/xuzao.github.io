@@ -6,15 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Xuzao
-subtitle: 虚构制造
+title: "XUZAO <br><small>虚构制造</small>"
+subtitle: SPECULATIVE<br>MANUFACTURING
 email: contact@xuzao.net
-description: " An international research, art and education program
-for speculative design and manufacturing"
+description: " An international research, art and education program for critical models of design and fabrication in the post 'Made In' era."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://xuzao.net" # the base hostname & protocol for your site
 twitter_username: xuzaostudio
 github_username:  xuzao
-
 # Build settings
 markdown: kramdown
