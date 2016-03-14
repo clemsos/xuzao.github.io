@@ -11,7 +11,7 @@ noindex: true
 
 ### Clément Renaud <br> <small>+33 (0) 643.345.655 <br> wechat : clementrenaud</small>
 
-### 曲宏媛<br> <small> +33 (0) 797.656.352 <br> wechat : zozoqu </small>
+### 曲宏媛<br> <small> +33 (0) 787.656.352 <br> wechat : zozoqu </small>
 
 42, rue Burdeau   
 69001 Lyon, France
@@ -523,5 +523,5 @@ class: inverse, middle, center
 
 .col-one-half[
 
-### 曲宏媛<br> <small> +33 (0) 797.656.352 <br> wechat : zozoqu </small>
+### 曲宏媛<br> <small> +33 (0) 787.656.352 <br> wechat : zozoqu </small>
 ]
