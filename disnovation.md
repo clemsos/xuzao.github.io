@@ -365,7 +365,7 @@ Diffusion
 ]
 
 ---
-class: middle, inverse
+class: middle, inverse, center
 
 # Team
 
