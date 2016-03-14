@@ -1,110 +1,169 @@
 ---
 layout: slides
 title : FACTORY:FICTION | Xuzao Disnovation
-password: disnovation
+password:
 ---
 
 <div markdown="0">
 
-# Xuzao / Disnovation
-**Confidentiel**
+# FACTORY:FICTION ![Confidential](/uploads/pre-release.jpg)
+
+### Clément Renaud <br> <small>+33 (0) 643.345.655 <br> wechat : clementrenaud</small>
+
+### 曲宏媛<br> <small> +33 (0) 797.656.352 <br> wechat : zozoqu </small>
+
+42, rue Burdeau   
+69001 Lyon, France
+
+### [contact@xuzao.net](mailto:contact@xuzao.net)
+
+---
+class: center, middle, inverse, title
+
+<br>
+
+# FACTORY:FICTION
+### Speculative Manufacturing in the post-MADE IN era
+
+<br>
+<br>
+
+### [XUZAO Production](http://xuzao.net)
+
+2016-17
 
 
 ---
-class: center, middle, inverse
+class: middle, inverse, title
 
-# FACTORY:FICTION
-## by DISNOVATION research group
+# 1. context
 
-### Speculative Manufacturing in the post-MADE IN era
+## The XUZAO Program
+---
+class: middle, inverse
+background-image: url(/uploads/city.png)
+
+Obsolescence, surveillance, pollution, labour...  
+
+## The Problem-solving approach to Design and Innovation does not provide answers to larger issues.
 
 
-[a XUZAO Production](http://xuzao.net)
+---
+class: middle, inverse
+background-image: url(/uploads/complexity.jpg)
+
+## But How can we apprehend such complexity?
+
+
+Discourses  
+Ideas  
+Environment  
+Work Conditions  
+Robots  
+Machines   
+Invention  
+Craft  
+Materials  
+Kits  
+Users   
+Languages  
+Supply Chain  
+Production  
+Ethics  
+Funding  
+Sales  
+Waste  
+Recycling  
+...
+
+
+
+---
+class: inverse, middle, title, center
+
+# ONGOING EXPLORATIONS
+.col-one-third[
+## Media <br> Archeology
+
+Explore, document and extract historical signs and symbols in the discourse on innovation.
+.center.blurb[
+![](/uploads/media-archeo.jpg)
+]
+]
+
+
+.col-one-third[
+## Design <br> Fiction
+
+Divert and challenge hi-tech standards by creating symbolic objects and processes.
+.blurb[
+![](/uploads/design-fiction.jpg)
+]
+]
+
+
+.col-one-third[
+## Fablabs <br> MakerSpaces
+
+Support territorial transformation of work habits and learning flows.
+.blurb[
+![](/uploads/maker-space.jpg)
+]
+
+]
+
 
 ---
 class:  inverse, middle
 title: about-projects
 
-### About XUZAO (虚构制造)
+### 虚构制造 : SPECULATIVE MANUFACTURING
 
 ## Xuzao is an INTERNATIONAL RESEARCH, ART AND EDUCATION PROGRAM ABOUT DESIGN AND MANUFACTURING
+
+Encounters between designers, thinkers, artists & makers  
+to describe critical models of design and fabrication  
+for the post 'Made In' economy.
+
 ### Based in Rhône-Alpes, France & Shenzhen, China.
 
 [http://xuzao.net](http://xuzao.net)
 
 
----
-class: middle, inverse
-
-# context
 
 ---
-class: middle, inverse
+class: middle, inverse, title
 
-# The Designer
-# the Maker
-# & the Made in China
+# 2. Background
+## Previous projects
 
 ---
 class: middle, inverse
 
-### Obsolescence, surveillance, pollution, labour...  
-
-Which role and responsibilities for designers and makers ?  
-
-Will their crafts and relationships merge ?  
-Will design transform only into a form supply chain management ?  
-Has design become the production of kits and machines ?
-
----
-class:  inverse, middle
-title: disnovation
-
-
-# DISNOVATION
-
-## A CRITICAL EXPLORATION OF THE MECHANISMS AND RHETORIC OF INNOVATION
-
-Lectures, exhibitions, screenings, performances, workshops and documentation.
-
-ON-SITE RESEARCH : Territorial Narratives of Innovation  
-
-[http://disnovation.net](http://disnovation.net)
-
----
-class: inverse, middle
-
-# Speculative Design
-
-## Design Fiction
-Concevoir des objets symboliques et tactiques visant à questionner, détourner, voire perturber les codes de l’innovation et de la manufacture du high-tech.
-
-
-## Media Archeology
-Concevoir des objets comme vecteur de signes, d’anecdotes et de symboles renvoyant à l’histoire même du domaine de l’innovation et de la manufacture du high-tech.
-
----
-class: middle, inverse
-
-# Background
-
----
-class: middle, inverse
 background-image: url("/uploads/xcj.JPG")
 
 .left-column[
-# [Open Innovation Models in Urban China](http://www.agence-nationale-recherche.fr/en/anr-funded-project/?tx_lwmsuivibilan_pi2%5BCODE%5D=ANR-13-SOIN-0006)
 
-**Academic Research**
+# [OPIMPUC](http://www.agence-nationale-recherche.fr/en/anr-funded-project/?tx_lwmsuivibilan_pi2%5BCODE%5D=ANR-13-SOIN-0006)
+**Academic Research about Shanzhai and Open-Source in China**    
 
-*2014-2016*
+*Nanjing, Shanghai, Shenzhen - 2014-2016*
+
+.icons[
+
+![Label ANR](/uploads/logos/label-ANR.png)
+![Telecom ParisTech](/uploads/logos/TPT.png)
+![*Toulouse 2 University](/uploads/logos/lereps.png)
+![**Nanjing University**](/uploads/logos/Nanjing_University_Logo.svg.png)
+]
 
 
-Funded by the French National Research Agency.
+]
 
-**Toulouse 2 University** (LEREPS)  
-**Telecom ParisTech** (I3)  
-**Nanjing University**  (DPUP)  
+.right-column[
+# Open Innovation Models in Urban China
+
+
 ]
 
 
@@ -115,19 +174,22 @@ background-image: url("/uploads/finger_tent.jpg")
 .left-column[
 # [Junwkare](http://junkware.io/)
 
-**French-China art residency program**
+**Design-fiction and  
+biometrics innovation**
 
-*2015*
+*Shanghai, 2015*
 
 
-**Partners**  
-CNC  
-Institut Français  
-Make+  
-Crossed Lab  
-Région Rhône-Alpes
+.icons[
+![](/uploads/logos/institutfrancais.png)
+![](/uploads/logos/logo-CNC-noir.png)
+![](/uploads/logos/makeplus.png)
+![](/uploads/logos/france-chine50.png)
+]
 
-With the support Mecenes comitee of the 50th anniversary of French-Chinese diplomatic relationships
+.small[
+With the support of the Mecenes Comitee of the 50th Anniversary of French-Chinese diplomatic relationships
+]
 
 ]
 
@@ -138,21 +200,18 @@ background-image: url("/uploads/ether.jpg")
 .left-column[
 # [Aether Mashup](http://clementrenaud.com/projects/AEtherMashup/)
 
-**French-China art residency program**
+**Surveillance in the Smart City**  
 
-*2014*
+*Caochangdi, 2014*
 
-Beijing Design Week  
-GeoCities-Smart Cities Biennnale  
-Chinese Museum of Digital Art  
-V-Art Center (Shanghai)  
+.icons[
+![](/uploads/logos/BJDW.png)
+![](/uploads/logos/geocity.png)
+![](/uploads/logos/V-Art-Center.png)
+![](/uploads/logos/institutfrancais.png)
+![](/uploads/logos/makeplus.png)
+]
 
-**Partners**  
-Beijing Design Week  
-Institut Français.
-Make+  
-Caochangdi (CCD – The Community)   
-Fabricatorz
 ]
 
 ---
@@ -170,7 +229,8 @@ By Nicolas Maigret & Maria Roszkowska.
 
 .right-column[
 ![](/uploads/Pirate_Book_Shanzhai.png)
-### SHENZHEN, DAFEN, SHANZHAI, ETC.
+
+*"Riding towards the Shenzhen outskirts, the flatness of the Pearl River Delta coast gradually transforms into hills and mountains. The gray walls of factory towns spurt out of this green landscape..."*  -- Renaud, 2015
 ]
 
 
@@ -182,7 +242,7 @@ background-image: url("/uploads/52_hypersonica4.jpg")
 .footnote[
 # [NICOLAS MAIGRET](http://peripheriques.free.fr)
 
-### The imperfections allow to identify a medium, in the style of glass becoming visible by the accumulated dusts and scratches.
+### The imperfections allow to identify a medium,  <br> in the style of glass becoming visible by the accumulated dusts and scratches.
 
 .small[Transmediale (Berlin) - File (Sao Paulo) - Museum of Art and Design (New York) - 30th Chaos Communication Congress (Hamburg) - NWFF (Seattle) - SAIC (Chicago) - China Museum of Digital Arts (Beijing) - The Pirate Bay 10th Anniversary (Stockholm) - Palais de Tokyo (Paris) - Eastern Bloc (Montreal) - Gli.tc/h (Birmingham)...]
 
@@ -195,157 +255,272 @@ background-image: url("/uploads/dbmps_04_905.jpg")
 
 .footnote[
 Maria Roszkowska is a Polish graphic designer based in Paris.  
-She has been associate researcher at EnsadLab Paris.  
-Between 2010 and 2014 she joined Intégral Ruedi Baur, a cultural graphic design studio in France.
+Associate researcher at EnsadLab Paris. Member of Intégral Ruedi Baur studio.
 ]
 
+---
+class:  inverse, middle
+title: disnovation
 
+
+
+# DISNOVATION
+###  ON-SITE RESEARCH <br> <small> #1 shenzhen</small>
+
+## A CRITICAL EXPLORATION OF THE Territorial Narratives OF INNOVATION
+
+Lectures, exhibitions, screenings, performances, workshops and documentation.  
+[http://disnovation.net](http://disnovation.net)
 ---
 class: inverse, middle
 
-# FACTORY:FICTION
+# 3. FACTORY:FICTION
 ## Speculative manufacturing : fiction in the supply chain
 
 ---
-class: inverse, middle
+class: inverse, middle, title
 
-## Methodology
+## Design <small>a critical/speculative object</small>
+## prototype<small> a first working version</small>
+## produce <small>a micro-serie of 100+ units</small>
+## Document <small>the process</small>
+## Exhibit <small>the results</small>
 
-* Instructions et spéculations sous forme écran (2d,3d) et papier
-* Interventions in situ, et modifications d’éléments existants
-* Construire leur supply chain, comment ils sont produits et fabriqués.
-* Projet manufacturé en série ou micro-série
+---
+class:  inverse, middle, title
 
-## Outcomes
+# Outcomes
+.list-close[
 
-* Pop-up art shows : Shenzhen Maker Week, Protocultural Lyon...
-* International exhibitions : St-Etienne Biennale, SZ/HK Biennale…
-* Publications : Online documentation & book
-
-Release in Public Domain (Creative Commons License)
+* ### Speculative Manufacturing <small>: A new methodology for critical innovation.</small>
+* ### France-China <small>: An ongoing international Design & Arts exchange program.</small>
+* ### International exhibitions <small>: St-Etienne Biennale, SZ/HK Biennale.</small>
+* ### Book  <small>: Online Publications / Book Disnovation #1 Shenzhen.</small>
+* ### Pop-up art shows <small>: Shenzhen Maker Week, Protocultural Lyon/St-Etienne.</small>
+* ### Public Domain <small>: All documentation released on CC-0 License</small>
+]
 
 ---
 class: middle, inverse
 
-## Brainstorming : 1 week, Shenzhen
+.col-one-half[
 
-Exploration of Shenzhen - production of concept and design guidelines  
-6 Participants (3 French + 3 Chinese)
+## Events
 
-## Prototyping : 1 week, Rhône-Alpes
+#### Jun 2016 <br> LAUNCHPAD at [Shenzhen Maker Faire](http://www.makerfaireshenzhen.com/english)
+#### Sep 2016 <br> [Protocultural](http://protocultural.org) at Lyon/St-Etienne
 
-Review of previous ideas - pre-design and prototype alpha version   
-6 Participants (3 French + 3 Chinese)
 
-## PRODUCTION : 1 month, Shenzhen
+## EXHIBITIONS
 
-Residency program - supply chain for speculative objects  
-4 Participants
+#### Mar 2017 <br> [Biennale du Design de St-Etienne](http://www.citedudesign.com/fr/actualites/171215-la-thematique-de-la-biennale-internationale-design-2017)
+#### Nov 2017 <br> [Shenzhen / HK City Biennale](http://en.szhkbiennale.org/News/newsDe.aspx?id=10000822)
 
-## DOCUMENTATION : 1 month, Rhône-Alpes
+
+]
+
+## TEACHING
+### An on-site training program for design students  
+
+Students can be involved to benefit and contribute to the reflections and unfolding of the program.
+
+*(Details to be discussed with the education partner)*  
+
+
+---
+class: middle, inverse
+
+# Methodology
+
+.col-one-half[
+### 1. BRAINSTORM <br><small>Workshop Shenzhen - Jun 2016</small>
+
+Exploration of Shenzhen - Production of design guidelines  
+<small>Team / Public Workshop (1 week)</small>  
+
+### 2.PROTOTYPE <br><small>Workshop Rhône-Alpes - Sep 2016</small>
+
+Review of previous ideas - Pre-design and prototype  
+<small>Team + product designers (1 week) </small>
+]
+
+.col-one-half[
+### 3.PRODUCE <br><small>Residency Shenzhen - Oct 2016</small>
+
+Fieldwork for production chain of speculative objects    
+<small>Team + documentation team (1 month)</small>  
+
+### 4.DOCUMENT <br><small> Rhône-Alpes - Q4 2016</small>
 Write-up, website and publishing for diffusion  
-4 Participants
-
-
----
-class: middle, inverse
-
-# Schedule
-
-## 2016
-* Mar-May : Fundraising in Shenzhen and Rhône-Alpes  
-* Jun
-  * BRAINSTORMING Workshop (1 week) in Shenzhen
-  * LAUNCHPAD at Shenzhen Maker Week / Faire (1 day)
-* Sep : PROTOTYPING Workshop in St-Etienne (1 week)
-* Oct : PRODUCTION Residency Disnovation in Shenzhen (1 month)
-* Nov : DOCUMENTATION  writing, etc.
-
-## 2017
-* Mar: EXHIBITION at [Biennale du Design de St-Etienne](http://www.citedudesign.com/fr/actualites/171215-la-thematique-de-la-biennale-internationale-design-2017)
-* Rhône-Alpes JSZQ Art residency program (1 month)
-* (2018) Exhibition at [Shenzhen / HK City Biennale](http://en.szhkbiennale.org/News/newsDe.aspx?id=10000822)
+<small>Team + book team (1 month)</small>
+]
 
 ---
 class: middle, inverse
 
 # Team
 
-## Xuzao Program
-  * Coordination France : Clément Renaud
-  * Coordination China : Qu Hongyuan
-  * Production Assistant : Xiao Fei
-  * Fab Manager France : Lionel Radisson
-  * PR / Communication : Théophile Pillault
+.col-one-third[
+.blurb[
+![Clément Renaud](/uploads/team/clement.jpg)  
+[Clément Renaud](http://clementrenaud.com)  
+.small[Coordination France]
+]
 
-## Invited artists
-  * Nicolas Maigret
-  * Maria Roszkowska
+.blurb[
+![Pirate Book Lion](/uploads/team/lion.jpg)  
+[Nicolas Maigret](http://peripheriques.free.fr) &  
+[Maria Roszkowska](http://cargocollective.com/mariaroszkowska)  
+.small[Invited Artists]
+]
+]
+
+.col-one-third[
+
+.blurb[
+![Qu Hongyuan](/uploads/team/yuan.jpg)  
+[Qu Hongyuan](http://quhongyuan.com)  
+.small[Coordination China]
+]
+
+.blurb[
+![Lionel Radisson](/uploads/team/lionel.png)  
+[Lionel Radisson](http://makio135.com)  
+.small[Product Design]
+]
+
+]
+
+.col-one-third[
+.blurb[
+![Xiao Fei](/uploads/team/panda.jpg)  
+[Xiao Fei](#)  
+.small[Production Assistant]
+]
+
+.blurb[
+![Théophile Pillault](/uploads/team/theo.png)  
+[Théophile Pillault](http://theopillault.com)  
+.small[PR / Communication]
+]
+
+]
+
 
 ---
-class: middle, inverse
+class: middle, inverse, partners
 
-# Partners (ongoing discussions)
+# Partners
+.col-one-third[
+### Art / Media
+[![Fabricatorz](/uploads/logos/fabricatorz.png)](http://fabricatorz.com)
 
-.two-cols[
+[![Protocultural](/uploads/logos/protocultural.jpg)](http://protocultural.org)
+[![Le Club](/uploads/logos/leclub.png)](http://leclub.io)
 
-**Institutional / Territorial**
+### [城市中国](http://www.urbanchina.com.cn/)
 
--   UNESCO Creative Cities
--   Institut Français (Ministère)
--   Rhône-Alpes region
-
-**Art / Design / Museums**
-
--   Cité du Design de St-Etienne
--   Shekou Design Museum
--   OCAT Shenzhen
--   Erasme
-
-**Professional Associations**
-
--   Shenzhen International Designers Association (SZIDA)
--   Shenzhen Open Innovation Lab
--   HAX
-
-**Education**
-
--   Shenzhen Maker Institute
--   Design and Fine Art School of St Etienne
--   Parsons Paris
-
-**Research**
-
--   Paris Interdisciplinary Institute of Innovation (I3)
--   Nanjing University DPUD
--   ENSSIB - Atelier Internet Lyonnais
-
-**Tech / Media / Events**
-
--   Fabricatorz
--   Protocultural
--   Urban China Magazine
 ]
+
+.col-one-third[
+### Research / Education
+[![Parsons Paris)](/uploads/logos/parsons.png)](http://www.newschool.edu/parsons-paris/)
+
+[![i3](/uploads/logos/i3.png)](http://www.i-3.fr/)
+
+[![Equipe Réseaux, Savoir, Territoires / Atelier Internet Lyonnais](/uploads/logos/logoERST.png)](http://barthes.ens.fr)
+
+
+]
+
+.col-one-third[
+## En discussion
+
+![Institut Français (Ministère)](/uploads/logos/institutfrancais.png)
+
+[![OCAT Shenzhen](/uploads/logos/ocat.png)](http://www.ocat.org.cn)
+
+![Biennale Saint-Etienne](/uploads/logos/biennale_Saint-Etienne.png)
+
+![Biennale Shenzhen](/uploads/logos/sz_biennale.png)
+
+
+]
+
 
 ---
 class: inverse
 
-# BUDGET
+# OVERALL ESTIMATE (GUIDELINES)  
+
+||||
+|---|--|--|
+|2016 Mar-May| Préparation | 2000 |
+|2016 Jun| BRAINSTORM Workshop+Event (Shenzhen)| 16000 |
+|2016 Sep| PROTOTYPE Workshop  (Rhône-Alpes)	| 11000 |
+|2016 Nov| PRODUCE Residency (Shenzhen)	| 19000 |
+|2017 Jan| DOCUMENT (Rhône-Alpes)| 	9000 |
+|2017 Mar| EXHIBIT (St Etienne+Shenzhen)| 	12000 |
+|| .green[**TOTAL**]	| .green[**EUR 69,000**] |
+
+
+---
+class: inverse
+
+# Next Step
+
+
+.col-one-half[
+## Workshop Shenzhen  
+**2016, June 18-28th**  
+
+at  [Shenzhen OCT Contemporary Art Terminal (OCAT)](http://www.ocat.org.cn/index.php/About?lang=en)  
+
+
+* **Jun 18** : Arrival in Shenzhen
+* **Jun 19-25** : Workshop  
+Shenzhen Exploration  
+
+* **Jun 26** : Launch Event  
+Public Session / Panel  
+
+* **Jun 27** : Departure
 
 
 
-| EXPENSES | |
-|--|--|
-| Préparation | 1900 |
-| BRAINSTORMING Workshop (Shenzhen)	| 14000 |
-| LAUNCHPAD Maker Week (Shenzhen)| 	1000 |
-| PROTOTYPING Workshop  (Lyon)	| 11000 |
-| PRODUCTION Residency (Shenzhen)	| 18100 |
-| DOCUMENTATION (Lyon)| 	7000 |
-| Biennale (St Etienne)| 	6000 |
-| .green[**TOTAL**]	| .green[**$59,000**] |
+]
+.col-one-half[
+|  |	 |
+| --	|	-- |
+| Salary / Fees	|	4000 |
+| Flights	|	4000 |
+| Per Diem |	2500 |
+| Workspace	|	1000 |
+| Photographer / Video |	1000 |
+| Assistant / Fixer |	500 |
+| Launchpad event |	2000 |
+| Coordination	|	2000 |
+| **TOTAL** |	**€17 000** |
+
+]
 
 
-.center[
-Link to the [Complete Version](https://docs.google.com/spreadsheets/d/1Si61fx9do62LBRP5AX8gMeFbA9xFpPipzGyBfP8V64s/edit#gid=1550369574)
+
+---
+class: inverse, middle, center
+
+
+# Thanks !
+## [contact@xuzao.net](mailto:contact@xuzao.net)
+
+42, rue Burdeau   
+69001 Lyon, France
+
+.col-one-half[
+### Clément Renaud <br> <small>+33 (0) 643.345.655 <br> wechat : clementrenaud</small>
+]
+
+.col-one-half[
+
+### 曲宏媛<br> <small> +33 (0) 797.656.352 <br> wechat : zozoqu </small>
 ]
