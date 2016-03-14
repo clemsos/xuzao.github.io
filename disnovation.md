@@ -468,7 +468,7 @@ class: inverse
 ---
 class: inverse
 
-# Next Step
+# First Step
 
 
 .col-one-half[
