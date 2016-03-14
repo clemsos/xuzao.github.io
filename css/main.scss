@@ -32,10 +32,7 @@ $on-laptop:        800px;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
+//
 // }
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
@@ -62,10 +59,6 @@ body, p, h1, h2, h3, h5, h6 {
 #landing {
   width: 100%;
   height: 100%;
-
-  h1 {
-    font-size: 5em;
-  }
 
   .wrapper {
     width: 100%;
@@ -99,12 +92,19 @@ body, p, h1, h2, h3, h5, h6 {
       font-weight: bolder;
       font-size: 10em;
       line-height: .8em;
+      max-width: 100%;
+      @include media-query($on-palm) {
+        font-size: 5em;
+      }
     }
 
     h3 {
       margin-top: 0;
       font-size: 4em;
       color: magenta;
+      @include media-query($on-palm) {
+        font-size: 2em;
+      }
     }
     .tagline {
       font-size: 2em;
