@@ -443,7 +443,7 @@ class: middle, inverse, partners
 ]
 
 .col-one-third[
-## En discussion
+## Discussing
 
 ![Institut Français (Ministère)](/uploads/logos/institutfrancais.png)
 
@@ -460,13 +460,15 @@ class: middle, inverse, partners
 ---
 class: inverse
 
-# OVERALL ESTIMATE (GUIDELINES)  
+# BUDGET
+
+## GENERAL ESTIMATE
 
 ||||
 |---|--|--|
 |2016 Mar-May| Préparation | 2000 |
-|2016 Jun| BRAINSTORM Workshop+Event (Shenzhen)| 16000 |
-|2016 Sep| PROTOTYPE Workshop  (Rhône-Alpes)	| 11000 |
+|2016 Jun| BRAINSTORM Workshop+Event (Shenzhen)| 15000 |
+|2016 Sep| PROTOTYPE Workshop (Rhône-Alpes)	| 12000 |
 |2016 Nov| PRODUCE Residency (Shenzhen)	| 19000 |
 |2017 Jan| DOCUMENT (Rhône-Alpes)| 	9000 |
 |2017 Mar| EXHIBIT (St Etienne+Shenzhen)| 	12000 |
@@ -509,8 +511,7 @@ Public Session / Panel
 | Assistant / Fixer |	500 |
 | Launchpad event |	2000 |
 | Coordination	|	2000 |
-| **TOTAL** |	**€17 000** |
-
+| .green[**TOTAL**] |	.green[**€17 000**] |
 ]
 
 
