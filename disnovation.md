@@ -173,7 +173,7 @@ class: middle, inverse
 background-image: url("/uploads/finger_tent.jpg")
 
 .left-column[
-# [Junwkare](http://junkware.io/)
+# [Junkware](http://junkware.io/)
 
 **Design-fiction and  
 biometrics innovation**
