@@ -296,12 +296,12 @@ class:  inverse, middle, title
 .col-one-half[
 * ### Speculative Manufacturing <br><small>A new methodology for critical innovation.</small>
 * ### France-China <br><small>An ongoing international Design & Arts exchange program.</small>
-* ### International exhibitions <br><small>St-Etienne Biennale, SZ/HK Biennale.</small>
+* ### Public Domain <br><small>All documentation released on CC-0 License</small>
 ]
 .col-one-half[
+* ### International exhibitions <br><small>St-Etienne Biennale, SZ/HK Biennale.</small>
 * ### Book+Online Publications  <br><small>Disnovation Book #1 Shenzhen.</small>
 * ### Pop-up art shows <br><small>Shenzhen Maker Week, Protocultural Lyon/St-Etienne.</small>
-* ### Public Domain <br><small>All documentation released on CC-0 License</small>
 ]
 ]
 
