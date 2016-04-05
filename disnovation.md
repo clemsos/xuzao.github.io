@@ -483,9 +483,7 @@ class: inverse
 
 .col-one-half[
 ## Workshop Shenzhen  
-**2016, June 18-28th**  
-
-at  [Shenzhen OCT Contemporary Art Terminal (OCAT)](http://www.ocat.org.cn/index.php/About?lang=en)  
+**2016, June-July**  
 
 
 * **Jun 18** : Arrival in Shenzhen
