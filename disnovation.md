@@ -1,7 +1,7 @@
 ---
 layout: slides
 title : FACTORY:FICTION | Xuzao Disnovation
-password: shenzhen
+password:
 noindex: true
 ---
 
@@ -29,10 +29,42 @@ class: center, middle, inverse, title
 <br>
 <br>
 
-### [XUZAO Production](http://xuzao.net)
+### [a MADEOUT Production](http://madeout.net)
 
 2016-17
 
+
+---
+class: inverse, middle, title
+
+
+# Madeout
+.col-one-half[
+
+
+### An independent art, research & design initiative
+
+Develop (non-) technological **concepts, methods and solutions**
+([Topogram](http://topogram.org), etc)
+
+Create new approaches for **Applied Research in Social Sciences**  
+(services, urban planning, etc.)
+
+Support **public domain** documentation. ([Protocultural](http://protocultural.org), CC affiliation)
+
+Increase the **international exchanges** between Rhône-Alpes and China
+([Xuzao](http://xuzao.net) program.)
+
+]
+
+
+.col-one-half.small[
+## Research <br><small>critical/speculative questions</small>
+## Prototype <br><small>Build working solutions</small>
+## Produce <br><small>micro-serie of objects</small>
+## Document / Release <br><small>Visualize the results</small>
+## Exchange  <br><small>international</small>
+]
 
 ---
 class: middle, inverse, title
@@ -274,146 +306,98 @@ Lectures, exhibitions, screenings, performances, workshops and documentation.
 [http://disnovation.net](http://disnovation.net)
 ---
 class: inverse, middle
+background-image: url(/uploads/shanzhai.jpg)
+background-align: center center
 
-# 3. FACTORY:FICTION
-## Speculative manufacturing : fiction in the supply chain
-
+.bottom[
+# 3. SHANZHAI:ARCHEOLOGY
+## Design Mutations From the supply chain
+]
 ---
-class: inverse, middle, title
+class: middle, inverse
 
-## Design <small>a critical/speculative object</small>
-## prototype<small> a first working version</small>
-## produce <small>a micro-serie of 100+ units</small>
-## Document <small>the process</small>
-## Exhibit <small>the results</small>
+# Legendary pirates <small>(山寨)</small>
 
----
-class:  inverse, middle, title
+Shanzhai refers to imitation and trademark infringing brands and goods, particularly electronics in China.
 
-# Outcomes
-.list-close[
+### *"Shanzhai offers a new paradigm for innovation"*  (Lindtner & Li, 2014)
 
-.col-one-half[
-* ### Speculative Manufacturing <br><small>A new methodology for critical innovation.</small>
-* ### France-China <br><small>An ongoing international Design & Arts exchange program.</small>
-* ### Public Domain <br><small>All documentation released on CC-0 License</small>
-]
-.col-one-half[
-* ### International exhibitions <br><small>St-Etienne Biennale, SZ/HK Biennale.</small>
-* ### Book+Online Publications  <br><small>Disnovation Book #1 Shenzhen.</small>
-* ### Pop-up art shows <br><small>Shenzhen Maker Week, Protocultural Lyon/St-Etienne.</small>
-]
-]
+### *"Shanzhai is an open platform for grassroots innovation"* (IDEO, 2009)
+
+### *"a fast-iterating network, in which everyone involved is hyper-aware of and responsive to each others’ progress and achievements."* (Frog Design, 2013)
 
 ---
 class: middle, inverse
 
-.col-one-half[
+# The end of shanzhai
 
-## Events
+*"the Made in China phenomenon is not the engine for economic growth it once was. (...)China will now begin its transformation into a gigantic robotized infrastructure of production."* - (Renaud, 2015)
 
-#### Jun 2016 <br> LAUNCHPAD at [Shenzhen Maker Faire](http://www.makerfaireshenzhen.com/english)
-#### Sep 2016 <br> [Protocultural](http://protocultural.org) at Lyon/St-Etienne
+* Made in China 2025 : new industrial program from Beijing
+* Crackdown on Shanzhai manufacturers (copyright enforcement)
+* Replaced by big industrial players (Renaud & al., 2016)
 
+## Fading away but mostly undocumented
 
-## EXHIBITIONS
-
-#### Mar 2017 <br> [Biennale du Design de St-Etienne](http://www.citedudesign.com/fr/actualites/171215-la-thematique-de-la-biennale-internationale-design-2017)
-#### Nov 2017 <br> [Shenzhen / HK City Biennale](http://en.szhkbiennale.org/News/newsDe.aspx?id=10000822)
-
-
-]
-
-## TEACHING
-### An on-site training program for design students  
-
-Students can be involved into the reflections and unfolding of the program.
-
-*(Details to be discussed with the education partner)*  
+* Poorly documented : mostly entrepreneurship, economics & copyright law
+* Non-existent documentation of design processes
 
 
 ---
-class: middle, inverse
+class: inverse
+# methodology
 
-# Methodology
+## Collect Objects
 
-.col-one-half[
-### 1. BRAINSTORM <br><small>Workshop Shenzhen - Jun 2016</small>
+* Create the first collection of *shanzhai* objects  
+* Organize collection online and on-site : purchases, buyouts, gifts...   
 
-Exploration of Shenzhen  
-Production of design guidelines  
-<small>Team / Public Workshop (1 week)</small>  
+## Visualize technological mutations
 
+* Create a database of key objects and their specifics (place, type, size, etc.)
+* Visualize the mutations and transformations (memes)
 
-### 3.PRODUCE <br><small>Residency Shenzhen - Oct 2016</small>
+## Shanzhai:archeology
 
-Fieldwork for production chain of speculative objects    
-<small>Team + documentation team (1 month)</small>  
-]
-
-.col-one-half[
-### 2.PROTOTYPE <br><small>Workshop Rhône-Alpes - Sep 2016</small>
-
-Review of previous ideas  
-Pre-design and prototype  
-<small>Team + product designers (1 week) </small>
-
-### 4.DOCUMENT <br><small> Rhône-Alpes - Q4 2016</small>
-Write-up, website and publishing
-Diffusion  
-<small>Team + book team (1 month)</small>
-]
+* A digital installation based on visualization of the database
+* Showcase the original objects and a look on the history of Shanzhai
 
 ---
 class: middle, inverse, center
 
 # Team
 
-.col-one-third[
+.col-one-half[
 .blurb[
 ![Clément Renaud](/uploads/team/clement.jpg)  
 [Clément Renaud](http://clementrenaud.com)  
-.small[Co-Founder / France]
+.small[Researcher]
 ]
 
 .blurb[
 ![Pirate Book Lion](/uploads/team/lion.jpg)  
-[Nicolas Maigret](http://peripheriques.free.fr) &  
 [Maria Roszkowska](http://cargocollective.com/mariaroszkowska)  
-.small[Invited Artists]
+.small[Documentation]
 ]
 ]
 
-.col-one-third[
+.col-one-half[
 
 .blurb[
 ![Qu Hongyuan](/uploads/team/yuan.jpg)  
 [Qu Hongyuan](http://quhongyuan.com)  
-.small[Co-Founder / China]
+.small[Coordination]
 ]
 
 .blurb[
-![Lionel Radisson](/uploads/team/lionel.png)  
-[Lionel Radisson](http://makio135.com)  
-.small[Product Design]
+![Lionel Radisson](/uploads/team/nico.jpg)  
+[Nicolas Maigret](http://peripheriques.free.fr) &  
+.small[Art Direction]
 ]
+
 
 ]
 
-.col-one-third[
-.blurb[
-![Xiao Fei](/uploads/team/panda.jpg)  
-[Xiao Fei](#)  
-.small[Production Assistant]
-]
-
-.blurb[
-![Théophile Pillault](/uploads/team/theo.png)  
-[Théophile Pillault](http://theopillault.com)  
-.small[PR / Communication]
-]
-
-]
 
 
 ---
@@ -456,64 +440,54 @@ class: middle, inverse, partners
 
 ]
 
-
 ---
 class: inverse
 
-# BUDGET
+.right-column[
 
-## GENERAL ESTIMATE
+.small[
 
-||||
-|---|--|--|
-|2016 Mar-May| Préparation | 2000 |
-|2016 Jun| BRAINSTORM Workshop+Event (Shenzhen)| 15000 |
-|2016 Sep| PROTOTYPE Workshop (Rhône-Alpes)	| 12000 |
-|2016 Nov| PRODUCE Residency (Shenzhen)	| 19000 |
-|2017 Jan| DOCUMENT (Rhône-Alpes)| 	9000 |
-|2017 Mar| EXHIBIT (St Etienne+Shenzhen)| 	12000 |
-|| .green[**TOTAL**]	| .green[**EUR 69,000**] |
+| Label             | Notes           | Unit price  | Qty | Total |
+|---                |--               |--           |---  |--     |
+| Research          | Clément Renaud  | 2000        | 1   | 2000  |
+| Organization      | Qu Hongyuan     | 2000        | 1   | 2000  |
+| Art Direction     | Nicolas Maigret | 2000        | 1   | 2000  |
+| Documentation     | Maria Roszkowska| 2000        | 1   | 2000  |
+| **Salaries**      |                 |             |     | **8000**  |
+| Objects Purchases | Electronics     | 3000        | 1   | 3000  |
+| Shipping          | China-France    | 1000        | 1   | 1000  |
+| **Collection**    |                 |             |     | **4000**  |
+| Workshop Shenzhen | Event Space     | 1000        | 1   | 1000  |
+| Workspace         | OCAT            | 2000        | 1   | 2000  |
+| Assistant         | Local Fixer     | 1000        | 1   | 1000  |
+| **On-site**       |                 |             |     | **4000**  |
+| Flights           | Paris-Shenzhen  | 1000        | 4   | 4000  |
+| Accomodation      | 1 month         | 1000        | 1   | 1000  |
+| Per Diem (food)   | 4 p. / 30 days  | 100         | 30  | 3000  |
+| **Costs**         |                 |             |     | **8000**  |
+|                 |               |           |  |     |
+| **TOTAL**         |                 |             |     | **24000** |
 
+]
+]
 
----
-class: inverse
+.left-column[
 
-# First Step
+## BUDGET  
+**2016, July/September**  
 
+|     |	    |
+| --- |	--- |
+| Rhône-Alpes (SCAN) |	10000 |
+| Institut Français  |  5000  |
+| Musée 	           |  4000  |
+| OCAT (SZ)	         |  3000  |
+| SZIDA (SZ)	       |  2000  |
 
-.col-one-half[
-## Workshop Shenzhen  
-**2016, June 18-28th**  
-
-at  [Shenzhen OCT Contemporary Art Terminal (OCAT)](http://www.ocat.org.cn/index.php/About?lang=en)  
-
-
-* **Jun 18** : Arrival in Shenzhen
-* **Jun 19-25** : Workshop  
-Shenzhen Exploration  
-
-* **Jun 26** : Launch Event  
-Public Session / Panel  
-
-* **Jun 27** : Departure
-
+Hosted by [Shenzhen OCT Contemporary Art Terminal (OCAT)](http://www.ocat.org.cn/index.php/About?lang=en)  
 
 
 ]
-.col-one-half[
-|  |	 |
-| --	|	-- |
-| Salary / Fees	|	4000 |
-| Flights	|	4000 |
-| Per Diem |	2500 |
-| Workspace	|	1000 |
-| Photographer / Video |	1000 |
-| Assistant / Fixer |	500 |
-| Launchpad event |	2000 |
-| Coordination	|	2000 |
-| .green[**TOTAL**] |	.green[**€17 000**] |
-]
-
 
 
 ---
