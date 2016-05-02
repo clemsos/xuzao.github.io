@@ -16,8 +16,9 @@ noindex: true
 42, rue Burdeau   
 69001 Lyon, France
 
-### [contact@xuzao.net](mailto:contact@xuzao.net)
+### [contact@madeout.net](mailto:contact@madeout.net)
 
+.right-column.red[Use &larr; &rarr; keyboard arrows to navigate the slides]
 ---
 class: center, middle, inverse, title
 
