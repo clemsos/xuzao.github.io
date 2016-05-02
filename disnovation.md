@@ -23,8 +23,8 @@ class: center, middle, inverse, title
 
 <br>
 
-# FACTORY:FICTION
-### Speculative Manufacturing in the post-MADE IN era
+# SHANZHAI:ARCHEOLOGY
+### A journey into the dusk of innovation renegades
 
 <br>
 <br>
