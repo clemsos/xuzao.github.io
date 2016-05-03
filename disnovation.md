@@ -446,7 +446,10 @@ class: inverse
 
 .right-column[
 
-.small[
+see the [file](https://docs.google.com/spreadsheets/d/1Si61fx9do62LBRP5AX8gMeFbA9xFpPipzGyBfP8V64s/edit#gid=251302774)
+
+
+<!-- .small[
 
 | Label             | Notes           | Unit price  | Qty | Total |
 |---                |--               |--           |---  |--     |
@@ -468,21 +471,21 @@ class: inverse
 | **Costs**         |                 |             |     | **8000**  |
 |                 |               |           |  |     |
 | **TOTAL**         |                 |             |     | **24000** |
-]
+] -->
 ]
 
 .left-column[
 
-## BUDGET  
+# BUDGET / SCHEDULE
+<!--
 **2016, July/September**  
-
 |     |	    |
 | --- |	--- |
 | Rhône-Alpes (SCAN) |	10000 |
 | Institut Français  |  5000  |
 | Musée 	           |  4000  |
 | OCAT (SZ)	         |  3000  |
-| SZIDA (SZ)	       |  2000  |
+| SZIDA (SZ)	       |  2000  | -->
 
 Hosted by [Shenzhen OCT Contemporary Art Terminal (OCAT)](http://www.ocat.org.cn/index.php/About?lang=en)  
 
